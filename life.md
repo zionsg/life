@@ -60,4 +60,4 @@
 - 11/01/2016 Gave lightning talk at Singapore PHP User Group Meetup, [1st recording](https://engineers.sg/video/converting-dynamic-sites-to-static-singapore-php-user-group--481)
 - 20/01/2016 Tried out Amazon Web Services Route 53 and launched static site on S3
 - 28/01/2016 Deployed 1st app on Heroku as part of General Assembly WDI Instructor Code Challenge
-- 03/02/2016 Forked [cheeaun's Life project](https://github.com/cheeaun/life) and created own timeline of tech events in [life](http://zionsg.github.io/life/)
+- 03/02/2016 Created 1st GitHub Pages site with timeline of tech events in [life](http://zionsg.github.io/life/)

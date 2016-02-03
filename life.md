@@ -24,6 +24,7 @@
 - 07/08/2002 Graduated with Bachelor in Computing (Merit)
 - 17/03/2003 2nd and main web domain [intzone.com](http://intzone.com)
 - 2005 Launched side project [MathZ](http://intzone.com/MathZ)
+- 02/2006 Bought the Fujitsu Tablet PC T4010
 - 02/01/2008 Bought first Linux computer, the Asus Eee PC 4G 701 (running on Xandros), officially launched on 01 Dec 2007
 - 02/07/2008 Started [Zion's EeePC Blog](http://zion-eeepc.blogspot.sg)
 - 24/09/2008 Started [Zion's Healsio Cooking Blog](http://zion-healsio.blogspot.sg)
@@ -46,6 +47,7 @@
 - 20/09/2014 Bought the Microsoft Surface Pro 3
 - 18/09/2015 Attended first meetup at [Friday Hacks #97](http://nushackers.org/2015/09/friday-hacks-97-Sept-18/)
 - 09/2015 Started using Facebook and Twitter
+- 21/09/2015 Was introduced to the fabulous platform for freelance designers and developers, [MomoCentral.com](https://momocentral.com)
 - 22/09/2015-23/09/2015 Attended 1st PHP conference in Asia, [PHPConf.Asia](http://phpconf.asia/)
 - 03/10/2015 Bought first Mac computer, the gold-coloured 12-inch MacBook
 - 10/2015 Started learning Swift (v2) and did the [FoodTracker tutorial](https://developer.apple.com/…/DevelopiOSAppsSwift/index.html)

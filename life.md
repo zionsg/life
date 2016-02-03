@@ -3,35 +3,61 @@
 
 - 12/1990 Uncle gave 1st computer, an IBM PC XT running MS-DOS 3.3
 - 01/1991 Joined Computer Club in secondary school
-- 1992 Took QBASIC course at Informatics
+- 22/06/1992 Completed QBASIC programming course at Informatics Computer School sponsored by grandaunt
 - 1992 Learnt how to assemble and upgrade computers
-- 1993 Picked up C
+- 1993 Picked up C and a teeny bit of Assembly Language
 - 1995 Learnt Pascal and FoxPro 2.6 in junior college
 - 08/1995 Upgraded computer with CD-ROM drive to install Windows 95
 - 1996 Picked up HTML and Visual Basic
 - 1996 1st email account @cyberway.com.sg
 - 1996 Picked up and used Visual FoxPro 3.0 for "A" Level Computing project
-- 1993-1996 Represented secondary school and junior college with teammates in various IT competitions such as National Software Competion, Micromouse, Lego Robotics, etc.
+- 1993-1996 Represented schools with friends in IT competitions (National Software Competition, Micromouse, Lego Robotics, etc.)
 - 07/1999 Enrolled in School of Computing, National University of Singapore
 - 07/1999 Learnt Scheme in CS1101S
 - 11/1999-12/1999 Attended Scheme to Java Conversion Course conducted by seniors
-- 2000 Learnt SQL, MySQL and MS Access in school
-- 2000 Picked up PHP, ASP, CSS and Javascript 
+- 01/2000 Learnt more Java in CS1102
 - 13/11/2000-15/11/2000 Conducted Scheme to Java Conversion Course for juniors
+- 2001 Learnt SQL, MySQL and MS Access in CS2102S
+- 2001 Picked up PHP, ASP, CSS and Javascript
 - 10/12/2001-12/12/2001 Conducted Scheme to Java Conversion Course for juniors
 - 06/2001 1st web domain kitthrng.com (now defunct)
-- 05/2002 Graduated with Bachelor in Computing (Merit)
-- 17/03/2003 2nd and main web domain intzone.com
-- 12/2010 Took Microsoft .NET Framework 3.5 course at New Horizons Learning Centre
+- 07/08/2002 Graduated with Bachelor in Computing (Merit)
+- 17/03/2003 2nd and main web domain [intzone.com](http://intzone.com)
+- 2005 Launched side project [MathZ](http://intzone.com/MathZ)
+- 02/01/2008 Bought first Linux computer, the Asus Eee PC 4G 701 (running on Xandros), officially launched on 01 Dec 2007
+- 02/07/2008 Started [Zion's EeePC Blog](http://zion-eeepc.blogspot.sg)
+- 24/09/2008 Started [Zion's Healsio Cooking Blog](http://zion-healsio.blogspot.sg)
+- 18/12/2008 Launched side project [BibleZ](http://intzone.com/BibleZ) and picked up Regular Expression in the process
+- 12/2010-02/2011 Took Microsoft .NET Framework 3.5 course at New Horizons Computer Learning Center
 - 26/02/2011 Achieved Microsoft Professional Developer (ASP.NET Developer 3.5) certification
 - 01/04/2011 Achieved Microsoft Professional Developer (Windows Developer 3.5) certification
 - 08/04/2011 Achieved Microsoft Professional Developer (Enterprise Application Developer 3.5) certification
 - 06/2011 Picked up Zend Framework 1
+- 28/05/2012 3rd and personal web domain [zion.sg](http://zion.sg)
 - 02/06/2012 1st Singaporean to achieve Zend Certified Engineer (Zend Framework 1) certification
 - 20/06/2012 Achieved Zend Certified Engineer (PHP 5.3) certification
 - 22/10/2012-25/10/2012 Attended 1st tech conference ZendCon 2012 in Santa Clara, USA, where Zend Framework 2 was launched
-- 24/10/2012 Created GitHub account
-- 28/05/2012 3rd web domain zion.sg
-- 22/05/2013 Achieved Oracle Certified Profession (MySQL 5.0 Developer) certification 
-- 12/04/2014 1st Singaporean to achieve Zend Framework 2 Certified Architect certification 
-- 18/09/2015 Attended first meetup [Friday Hacks #97](http://nushackers.org/2015/09/friday-hacks-97-Sept-18/)
+- 24/10/2012 Created [GitHub account](https://github.com/zionsg)
+- 22/05/2013 Achieved Oracle Certified Profession (MySQL 5.0 Developer) certification
+- 12/04/2014 1st Singaporean to achieve Zend Framework 2 Certified Architect certification
+- 14/04/2014 Wrote [1st Python script](https://github.com/zionsg/standalone-php-scripts/blob/master/CrawlSite/npp_convert_utf8.py)
+- 01/07/2014 Registered intZone.com as a business and started working as a full-time freelance web developer
+- 01/07/2014 Started [Blog@intZone](http://intzone.com/web/blog)
+- 20/09/2014 Bought the Microsoft Surface Pro 3
+- 18/09/2015 Attended first meetup at [Friday Hacks #97](http://nushackers.org/2015/09/friday-hacks-97-Sept-18/)
+- 09/2015 Started using Facebook and Twitter
+- 22/09/2015-23/09/2015 Attended 1st PHP conference in Asia, [PHPConf.Asia](http://phpconf.asia/)
+- 03/10/2015 Bought first Mac computer, the gold-coloured 12-inch MacBook
+- 10/2015 Started learning Swift (v2) and did the [FoodTracker tutorial](https://developer.apple.com/…/DevelopiOSAppsSwift/index.html)
+- 13/10/205 1st hackathon at [Hyper Haze Hack](http://www.hackathon.io/hyper-haze)
+- 16/10/2015 Gave 1st lightning talk at [Friday Hacks #100](http://nushackers.org/2015/10/friday-hacks-100-Oct-16/)
+- 24/10/2015 Attended 1st iOS Conference in Singapore, [iOSConf.SG](http://www.iosconf.sg/)
+- 13/11/2015 1st code golf at [Friday Hacks #104](http://nushackers.org/2015/11/friday-hacks-104-Nov-13/)
+- 19/11/2015 Tried out Arduino and NodeJS at NodeBots Sumo Bot Battles workshop during [DevFest.Asia](http://2015.devfest.asia/)
+- 01/12/2015 Submitted 1st iOS app to the App Store but [rejected](http://intzone.com/web/blog/my-1st-app-part-1-creating-the-app/)
+- 12/2015 Learnt a bit of Ruby and tried a [tutorial](http://tryruby.org/)
+- 12/2015 Learnt a bit of Ruby on Rails and tried the [Getting Started tutorial](http://guides.rubyonrails.org/getting_started.html)
+- 11/01/2016 Gave lightning talk at Singapore PHP User Group Meetup, [1st recording](https://engineers.sg/video/converting-dynamic-sites-to-static-singapore-php-user-group--481)
+- 20/01/2016 Tried out Amazon Web Services Route 53 and launched static site on S3
+- 28/01/2016 Deployed 1st app on Heroku as part of General Assembly WDI Instructor Code Challenge
+- 03/02/2016 Forked [cheeaun's Life project](https://github.com/cheeaun/life) and created own timeline of tech events in [life](http://zionsg.github.io/life/)

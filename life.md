@@ -1,10 +1,37 @@
-@zion's tech life
-=================
+@zionsg's tech life
+===================
 
+- 12/1990 Uncle gave 1st computer, an IBM PC XT running MS-DOS 3.3
+- 01/1991 Joined Computer Club in secondary school
 - 1992 Took QBASIC course at Informatics
-- 1993 Picked up C to take part in National Software Writing Competition
-- 1995 Learnt Pascal in JC
-- 1999 Learnt Scheme in CS1101S
-- 1999 Learnt Java
-- 2000 Picked up PHP and ASP
+- 1992 Learnt how to assemble and upgrade computers
+- 1993 Picked up C
+- 1995 Learnt Pascal and FoxPro 2.6 in junior college
+- 08/1995 Upgraded computer with CD-ROM drive to install Windows 95
+- 1996 Picked up HTML and Visual Basic
+- 1996 1st email account @cyberway.com.sg
+- 1996 Picked up and used Visual FoxPro 3.0 for "A" Level Computing project
+- 1993-1996 Represented secondary school and junior college with teammates in various IT competitions such as National Software Competion, Micromouse, Lego Robotics, etc.
+- 07/1999 Enrolled in School of Computing, National University of Singapore
+- 07/1999 Learnt Scheme in CS1101S
+- 11/1999-12/1999 Attended Scheme to Java Conversion Course conducted by seniors
+- 2000 Learnt SQL, MySQL and MS Access in school
+- 2000 Picked up PHP, ASP, CSS and Javascript 
+- 13/11/2000-15/11/2000 Conducted Scheme to Java Conversion Course for juniors
+- 10/12/2001-12/12/2001 Conducted Scheme to Java Conversion Course for juniors
+- 06/2001 1st web domain kitthrng.com (now defunct)
+- 05/2002 Graduated with Bachelor in Computing (Merit)
+- 17/03/2003 2nd and main web domain intzone.com
+- 12/2010 Took Microsoft .NET Framework 3.5 course at New Horizons Learning Centre
+- 26/02/2011 Achieved Microsoft Professional Developer (ASP.NET Developer 3.5) certification
+- 01/04/2011 Achieved Microsoft Professional Developer (Windows Developer 3.5) certification
+- 08/04/2011 Achieved Microsoft Professional Developer (Enterprise Application Developer 3.5) certification
+- 06/2011 Picked up Zend Framework 1
+- 02/06/2012 1st Singaporean to achieve Zend Certified Engineer (Zend Framework 1) certification
+- 20/06/2012 Achieved Zend Certified Engineer (PHP 5.3) certification
+- 22/10/2012-25/10/2012 Attended 1st tech conference ZendCon 2012 in Santa Clara, USA, where Zend Framework 2 was launched
+- 24/10/2012 Created GitHub account
+- 28/05/2012 3rd web domain zion.sg
+- 22/05/2013 Achieved Oracle Certified Profession (MySQL 5.0 Developer) certification 
+- 12/04/2014 1st Singaporean to achieve Zend Framework 2 Certified Architect certification 
 - 18/09/2015 Attended first meetup [Friday Hacks #97](http://nushackers.org/2015/09/friday-hacks-97-Sept-18/)

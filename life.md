@@ -19,8 +19,8 @@
 - 13/11/2000-15/11/2000 Conducted Scheme to Java Conversion Course for juniors
 - 2001 Learnt SQL, MySQL and MS Access in CS2102S
 - 2001 Picked up PHP, ASP, CSS and Javascript
-- 10/12/2001-12/12/2001 Conducted Scheme to Java Conversion Course for juniors
 - 06/2001 1st web domain kitthrng.com (now defunct)
+- 10/12/2001-12/12/2001 Conducted Scheme to Java Conversion Course for juniors
 - 07/08/2002 Graduated with Bachelor in Computing (Merit)
 - 17/03/2003 2nd and main web domain [intzone.com](http://intzone.com)
 - 2005 Launched side project [MathZ](http://intzone.com/MathZ)
@@ -49,7 +49,7 @@
 - 22/09/2015-23/09/2015 Attended 1st PHP conference in Asia, [PHPConf.Asia](http://phpconf.asia/)
 - 03/10/2015 Bought first Mac computer, the gold-coloured 12-inch MacBook
 - 10/2015 Started learning Swift (v2) and did the [FoodTracker tutorial](https://developer.apple.com/…/DevelopiOSAppsSwift/index.html)
-- 13/10/205 1st hackathon at [Hyper Haze Hack](http://www.hackathon.io/hyper-haze)
+- 13/10/2015 1st hackathon at [Hyper Haze Hack](http://www.hackathon.io/hyper-haze)
 - 16/10/2015 Gave 1st lightning talk at [Friday Hacks #100](http://nushackers.org/2015/10/friday-hacks-100-Oct-16/)
 - 24/10/2015 Attended 1st iOS Conference in Singapore, [iOSConf.SG](http://www.iosconf.sg/)
 - 13/11/2015 1st code golf at [Friday Hacks #104](http://nushackers.org/2015/11/friday-hacks-104-Nov-13/)

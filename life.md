@@ -12,7 +12,7 @@
 - 1996 1st email account @cyberway.com.sg
 - 1996 Picked up and used Visual FoxPro 3.0 for "A" Level Computing project
 - 1993-1996 Represented schools with friends in IT competitions (National Software Competition, Micromouse, Lego Robotics, etc.)
-- 03/1997 Wrote Pascal program to help PTP/BMT platoon calculate 217 numerical push-ups
+- 03/1997 Wrote Pascal program to help PTP/BMT platoon calculate 217 numerical push-ups for Platoon Commander
 - 07/1999 Enrolled in School of Computing, National University of Singapore
 - 07/1999 Learnt Scheme in CS1101S
 - 11/1999-12/1999 Attended Scheme to Java Conversion Course conducted by seniors

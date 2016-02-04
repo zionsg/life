@@ -33,12 +33,15 @@
 - 26/02/2011 Achieved Microsoft Professional Developer (ASP.NET Developer 3.5) certification
 - 01/04/2011 Achieved Microsoft Professional Developer (Windows Developer 3.5) certification
 - 08/04/2011 Achieved Microsoft Professional Developer (Enterprise Application Developer 3.5) certification
+- 05/2011 Read up on [PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md) and [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 - 06/2011 Picked up Zend Framework 1
+- 06/2011 Picked up WordPress in order to manage existing church website
 - 28/05/2012 3rd and personal web domain [zion.sg](http://zion.sg)
 - 02/06/2012 1st Singaporean to achieve Zend Certified Engineer (Zend Framework 1) certification
 - 20/06/2012 Achieved Zend Certified Engineer (PHP 5.3) certification
 - 22/10/2012-25/10/2012 Attended 1st tech conference ZendCon 2012 in Santa Clara, USA, where Zend Framework 2 was launched
 - 24/10/2012 Created [GitHub account](https://github.com/zionsg)
+- 01/2013 Started implementing responsive design on websites, using Bootstrap 2
 - 22/05/2013 Achieved Oracle Certified Professional (MySQL 5.0 Developer) certification
 - 12/04/2014 1st Singaporean to achieve Zend Framework 2 Certified Architect certification
 - 14/04/2014 Wrote [1st Python script](https://github.com/zionsg/standalone-php-scripts/blob/master/CrawlSite/npp_convert_utf8.py)

@@ -22,7 +22,7 @@
 - 2001 Picked up PHP, ASP, CSS and Javascript
 - 06/2001 1st web domain kitthrng.com (now defunct)
 - 10/12/2001-12/12/2001 Conducted Scheme to Java Conversion Course for juniors
-- 07/08/2002 Graduated with Bachelor in Computing (Merit)
+- 05/2002 Graduated with Bachelor in Computing (Merit)
 - 11/2002 Use Anvil Studio MIDI software to compose 1st [Scripture in Song](http://intzone.com/shixianchu/music)
 - 17/03/2003 2nd and main web domain [intzone.com](http://intzone.com)
 - 2005 Launched side project [MathZ](http://intzone.com/MathZ)

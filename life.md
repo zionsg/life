@@ -45,6 +45,7 @@
 - 22/10/2012-25/10/2012 Attended 1st tech conference ZendCon 2012 in Santa Clara, USA, where Zend Framework 2 was launched
 - 24/10/2012 Created [GitHub account](https://github.com/zionsg)
 - 01/2013 Started implementing responsive design on websites, using Bootstrap 2
+- 01/2013 Started practising [unobstrusive Javascript](http://icant.co.uk/articles/seven-rules-of-unobtrusive-javascript)
 - 22/05/2013 Achieved Oracle Certified Professional (MySQL 5.0 Developer) certification
 - 12/04/2014 1st Singaporean to achieve Zend Framework 2 Certified Architect certification
 - 14/04/2014 Wrote [1st Python script](https://github.com/zionsg/standalone-php-scripts/blob/master/CrawlSite/npp_convert_utf8.py)

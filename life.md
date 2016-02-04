@@ -33,7 +33,7 @@
 - 26/02/2011 Achieved Microsoft Professional Developer (ASP.NET Developer 3.5) certification
 - 01/04/2011 Achieved Microsoft Professional Developer (Windows Developer 3.5) certification
 - 08/04/2011 Achieved Microsoft Professional Developer (Enterprise Application Developer 3.5) certification
-- 05/2011 Read up on [PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md) and [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+- 05/2011 Read up on [PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md) and [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md) coding standards
 - 06/2011 Picked up Zend Framework 1
 - 06/2011 Picked up WordPress in order to manage existing church website
 - 28/05/2012 3rd and personal web domain [zion.sg](http://zion.sg)

@@ -12,6 +12,7 @@
 - 1996 1st email account @cyberway.com.sg
 - 1996 Picked up and used Visual FoxPro 3.0 for "A" Level Computing project
 - 1993-1996 Represented schools with friends in IT competitions (National Software Competition, Micromouse, Lego Robotics, etc.)
+- 03/1997 Wrote Pascal program to help PTP/BMT platoon calculate 217 numerical push-ups
 - 07/1999 Enrolled in School of Computing, National University of Singapore
 - 07/1999 Learnt Scheme in CS1101S
 - 11/1999-12/1999 Attended Scheme to Java Conversion Course conducted by seniors
@@ -22,9 +23,11 @@
 - 06/2001 1st web domain kitthrng.com (now defunct)
 - 10/12/2001-12/12/2001 Conducted Scheme to Java Conversion Course for juniors
 - 07/08/2002 Graduated with Bachelor in Computing (Merit)
+- 11/2002 Use Anvil Studio MIDI software to compose 1st [Scripture in Song](http://intzone.com/shixianchu/music)
 - 17/03/2003 2nd and main web domain [intzone.com](http://intzone.com)
 - 2005 Launched side project [MathZ](http://intzone.com/MathZ)
 - 02/2006 Bought the Fujitsu Tablet PC T4010
+- 23/02/2006 Started penning [poems](http://intzone.com/shixianchu/poems) using Tablet PC instead of writing/scanning
 - 02/01/2008 Bought first Linux computer, the Asus Eee PC 4G 701 (running on Xandros), officially launched on 01 Dec 2007
 - 02/07/2008 Started [Zion's EeePC Blog](http://zion-eeepc.blogspot.sg)
 - 24/09/2008 Started [Zion's Healsio Cooking Blog](http://zion-healsio.blogspot.sg)

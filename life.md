@@ -25,6 +25,7 @@
 - 05/2002 Graduated with Bachelor in Computing (Merit)
 - 11/2002 Use Anvil Studio MIDI software to compose 1st [Scripture in Song](http://intzone.com/shixianchu/music)
 - 17/03/2003 2nd and main web domain [intzone.com](http://intzone.com)
+- 02/2003-07/2004 Coached schools for Ngee Ann Polytechnic Inter-school Micromouse Competition and National Junior Robotics Competition
 - 2005 Launched side project [MathZ](http://intzone.com/MathZ)
 - 02/2006 Bought the Fujitsu Tablet PC T4010
 - 23/02/2006 Started penning [poems](http://intzone.com/shixianchu/poems) using Tablet PC instead of writing/scanning

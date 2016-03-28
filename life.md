@@ -71,3 +71,4 @@
 - 20/01/2016 Tried out Amazon Web Services Route 53 and launched static site on S3
 - 28/01/2016 Deployed 1st app on Heroku as part of General Assembly WDI Instructor Code Challenge
 - 03/02/2016 Created 1st GitHub Pages site with timeline of tech events in [life](http://zionsg.github.io/life/)
+- 19/03/2016 Gave talk at [FOSSASIA 2016](http://2016.fossasia.org/)

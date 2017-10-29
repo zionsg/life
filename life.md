@@ -76,4 +76,4 @@
 - 29/04/2016-30/04/2016 First overnight hackathon, [FB SG x GITSG Hack for a Cause Hackathon](https://www.facebook.com/events/1510014309306287)
 - 22/08/2016 Conducted PSR workshop at [PHP Conference Asia 2016](https://2016.phpconf.asia)
 - 24/02/2017 1st Singaporean to achieve Zend Certified Engineer (PHP 7.1) certification
-- 28/10/2017-29/10/2017 First-time conference organiser - [WordCamp SG 2017](https://2017.singapore.wordcamp.org/)
+- 28/10/2017-29/10/2017 First-time tech conference organiser - [WordCamp SG 2017](https://2017.singapore.wordcamp.org/)

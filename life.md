@@ -23,16 +23,16 @@
 - 06/2001 1st web domain kitthrng.com (now defunct)
 - 10/12/2001-12/12/2001 Conducted Scheme to Java Conversion Course for juniors
 - 05/2002 Graduated with Bachelor in Computing (Merit)
-- 11/2002 Use Anvil Studio MIDI software to compose 1st [Scripture in Song](http://intzone.com/shixianchu/music)
-- 17/03/2003 2nd and main web domain [intzone.com](http://intzone.com)
+- 11/2002 Use Anvil Studio MIDI software to compose 1st [Scripture in Song](https://zion.sg/music)
+- 17/03/2003 2nd and main web domain [intzone.com](https://intzone.com)
 - 02/2003-07/2004 Coached schools for Ngee Ann Polytechnic Inter-school Micromouse Competition and National Junior Robotics Competition
-- 2005 Launched side project [MathZ](http://intzone.com/MathZ)
+- 2005 Launched side project [MathZ](https://intzone.com/MathZ)
 - 02/2006 Bought the Fujitsu Tablet PC T4010
-- 23/02/2006 Started penning [poems](http://intzone.com/shixianchu/poems) using Tablet PC instead of writing/scanning
+- 23/02/2006 Started penning [poems](https://zion.sg/poems) using Tablet PC instead of writing/scanning
 - 02/01/2008 Bought first Linux computer, the Asus Eee PC 4G 701 (running on Xandros), officially launched on 01 Dec 2007
-- 02/07/2008 Started [Zion's EeePC Blog](http://zion-eeepc.blogspot.sg)
-- 24/09/2008 Started [Zion's Healsio Cooking Blog](http://zion-healsio.blogspot.sg)
-- 18/12/2008 Launched side project [BibleZ](http://intzone.com/BibleZ) and picked up Regular Expression in the process
+- 02/07/2008 Started [Zion's EeePC Blog](https://zion-eeepc.blogspot.sg)
+- 24/09/2008 Started [Zion's Healsio Cooking Blog](https://zion-healsio.blogspot.sg)
+- 18/12/2008 Launched side project [BibleZ](https://intzone.com/BibleZ) and picked up Regular Expression in the process
 - 12/2010-02/2011 Took Microsoft .NET Framework 3.5 course at New Horizons Computer Learning Center
 - 26/02/2011 Achieved Microsoft Professional Developer (ASP.NET Developer 3.5) certification
 - 01/04/2011 Achieved Microsoft Professional Developer (Windows Developer 3.5) certification
@@ -40,7 +40,7 @@
 - 05/2011 Read up on [PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md) and [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md) coding standards
 - 06/2011 Picked up Zend Framework 1
 - 06/2011 Picked up WordPress in order to manage existing church website
-- 28/05/2012 3rd and personal web domain [zion.sg](http://zion.sg)
+- 28/05/2012 3rd and personal web domain [zion.sg](https://zion.sg)
 - 02/06/2012 1st Singaporean to achieve Zend Certified Engineer (Zend Framework 1) certification
 - 20/06/2012 Achieved Zend Certified Engineer (PHP 5.3) certification
 - 22/10/2012-25/10/2012 Attended 1st tech conference ZendCon 2012 in Santa Clara, USA, where Zend Framework 2 was launched
@@ -51,27 +51,27 @@
 - 12/04/2014 1st Singaporean to achieve Zend Framework 2 Certified Architect certification
 - 14/04/2014 Wrote [1st Python script](https://github.com/zionsg/standalone-php-scripts/blob/master/CrawlSite/npp_convert_utf8.py)
 - 01/07/2014 Registered intZone.com as a business and started working as a full-time freelance web developer
-- 01/07/2014 Started [Blog@intZone](http://intzone.com/web/blog)
+- 01/07/2014 Started [Blog@intZone](https://blog.intzone.com)
 - 20/09/2014 Bought the Microsoft Surface Pro 3
-- 18/09/2015 Attended first meetup at [Friday Hacks #97](http://nushackers.org/2015/09/friday-hacks-97-Sept-18/)
+- 18/09/2015 Attended first meetup at [Friday Hacks #97](https://nushackers.org/2015/09/friday-hacks-97-Sept-18/)
 - 09/2015 Started using Facebook and Twitter
 - 21/09/2015 Was introduced to the fabulous platform for freelance designers and developers, [MomoCentral.com](https://momocentral.com)
-- 22/09/2015-23/09/2015 Attended 1st PHP conference in Asia, [PHPConf.Asia](http://phpconf.asia/)
+- 22/09/2015-23/09/2015 Attended 1st PHP conference in Asia, [PHPConf.Asia](https://phpconf.asia/)
 - 03/10/2015 Bought first Mac computer, the gold-coloured 12-inch MacBook
 - 10/2015 Started learning Swift (v2) and did the [FoodTracker tutorial](https://developer.apple.com/…/DevelopiOSAppsSwift/index.html)
 - 13/10/2015 1st hackathon at [Hyper Haze Hack](http://www.hackathon.io/hyper-haze)
-- 16/10/2015 Gave 1st lightning talk at [Friday Hacks #100](http://nushackers.org/2015/10/friday-hacks-100-Oct-16/)
-- 24/10/2015 Attended 1st iOS Conference in Singapore, [iOSConf.SG](http://www.iosconf.sg/)
-- 13/11/2015 1st code golf at [Friday Hacks #104](http://nushackers.org/2015/11/friday-hacks-104-Nov-13/)
-- 19/11/2015 Tried out Arduino and NodeJS at NodeBots Sumo Bot Battles workshop during [DevFest.Asia](http://2015.devfest.asia/)
-- 01/12/2015 Submitted 1st iOS app to the App Store but [rejected](http://intzone.com/web/blog/my-1st-app-part-1-creating-the-app/)
+- 16/10/2015 Gave 1st lightning talk at [Friday Hacks #100](https://nushackers.org/2015/10/friday-hacks-100-Oct-16/)
+- 24/10/2015 Attended 1st iOS Conference in Singapore, [iOSConf.SG](https://www.iosconf.sg/)
+- 13/11/2015 1st code golf at [Friday Hacks #104](https://nushackers.org/2015/11/friday-hacks-104-Nov-13/)
+- 19/11/2015 Tried out Arduino and NodeJS at NodeBots Sumo Bot Battles workshop during [DevFest.Asia](https://2015.devfest.asia/)
+- 01/12/2015 Submitted 1st iOS app to the App Store but [rejected](https://intzone.com/web/blog/my-1st-app-part-1-creating-the-app/)
 - 12/2015 Learnt a bit of Ruby and tried a [tutorial](http://tryruby.org/)
 - 12/2015 Learnt a bit of Ruby on Rails and tried the [Getting Started tutorial](http://guides.rubyonrails.org/getting_started.html)
 - 11/01/2016 Gave lightning talk at Singapore PHP User Group Meetup, [1st recording](https://engineers.sg/video/converting-dynamic-sites-to-static-singapore-php-user-group--481)
 - 20/01/2016 Tried out Amazon Web Services Route 53 and launched static site on S3
 - 28/01/2016 Deployed 1st app on Heroku as part of General Assembly WDI Instructor Code Challenge
-- 03/02/2016 Created 1st GitHub Pages site with timeline of tech events in [life](http://zionsg.github.io/life/)
-- 19/03/2016 Gave talk at [FOSSASIA 2016](http://2016.fossasia.org/)
+- 03/02/2016 Created 1st GitHub Pages site with timeline of tech events in [life](https://zionsg.github.io/life/)
+- 19/03/2016 Gave talk at [FOSSASIA 2016](https://2016.fossasia.org/)
 - 04/2016 Joined [Engineers.SG](https://engineers.sg/)
 - 29/04/2016-30/04/2016 First overnight hackathon, [FB SG x GITSG Hack for a Cause Hackathon](https://www.facebook.com/events/1510014309306287)
 - 22/08/2016 Conducted PSR workshop at [PHP Conference Asia 2016](https://2016.phpconf.asia)

@@ -78,3 +78,4 @@
 - 24/02/2017 1st Singaporean to achieve Zend Certified Engineer (PHP 7.1) certification
 - 28/10/2017-29/10/2017 First-time tech conference organiser - [WordCamp SG 2017](https://2017.singapore.wordcamp.org/)
 - 28/10/2017 First-time panel speaker - [AMA: The Future of WordPress](https://2017.singapore.wordcamp.org/session/ama-the-future-of-wordpress/)
+- 01/10/2018 [First commits to PHP docs](https://github.com/salathe/phpdoc-en/search?q=zion&type=Commits)

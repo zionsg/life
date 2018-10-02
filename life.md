@@ -48,6 +48,7 @@
 - 01/2013 Started implementing responsive design on websites, using Bootstrap 2
 - 01/2013 Started practising [unobtrusive Javascript](http://icant.co.uk/articles/seven-rules-of-unobtrusive-javascript)
 - 22/05/2013 Achieved Oracle Certified Professional (MySQL 5.0 Developer) certification
+- 29/06/2013 First open source contribution - [Zend Framework 2](https://github.com/zendframework/zendframework/pulls?q=author%3Azionsg)
 - 12/04/2014 1st Singaporean to achieve Zend Framework 2 Certified Architect certification
 - 14/04/2014 Wrote [1st Python script](https://github.com/zionsg/standalone-php-scripts/blob/master/CrawlSite/npp_convert_utf8.py)
 - 01/07/2014 Registered intZone.com as a business and started working as a full-time freelance web developer

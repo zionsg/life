@@ -1,6 +1,8 @@
 @zionsg's tech life
 ===================
 
+- 1992-2019 No. of programming languages used: Minimum 10 (QBASIC, C, Pascal, Scheme, Java, PHP, Javascript, Python, Swift, Objective-C), Maximum 25 (including variants and touch-n-go such as Visual Basic, MS Excel macros, ASP, C++, C#, Java for Android, Prolog, Smalltalk, Ruby, MySQL, FoxPro, Visual FoxPro, HTML, CSS, Bash scripting).
+
 - 12/1990 Uncle gave 1st computer, an IBM PC XT running MS-DOS 3.3
 - 01/1991 Joined Computer Club in secondary school
 - 22/06/1992 Completed QBASIC programming course at Informatics Computer School sponsored by grandaunt

@@ -80,4 +80,6 @@
 - 28/10/2017-29/10/2017 First-time tech conference organiser - [WordCamp SG 2017](https://2017.singapore.wordcamp.org/)
 - 28/10/2017 First-time panel speaker - [AMA: The Future of WordPress](https://2017.singapore.wordcamp.org/session/ama-the-future-of-wordpress/)
 - 01/10/2018 [First commits to PHP docs](https://github.com/salathe/phpdoc-en/search?q=zion&type=Commits)
+- 16/09/2020 Achieved AWS Certified Developer Associate certification
+- 25/01/2021 Learned to solve the basic variations of the Rubik's Cube - 3x3, 2x2, 3x3 uneven, 4x4, 5x5
 - 14/08/2021 Published 1st NPM package - [zn-js-form](https://www.npmjs.com/package/zn-js-form)

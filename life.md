@@ -19,7 +19,7 @@
 - 01/2000 Learnt more Java in CS1102
 - 13/11/2000-15/11/2000 Conducted Scheme to Java Conversion Course for juniors
 - 2001 Learnt SQL, MySQL and MS Access in CS2102S
-- 2001 Picked up PHP, ASP, CSS and Javascript
+- 2001 Picked up PHP, ASP, CSS and JavaScript
 - 06/2001 1st web domain kitthrng.com (now defunct)
 - 10/12/2001-12/12/2001 Conducted Scheme to Java Conversion Course for juniors
 - 05/2002 Graduated with Bachelor in Computing (Merit)

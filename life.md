@@ -83,3 +83,5 @@
 - 16/09/2020 Achieved AWS Certified Developer Associate certification
 - 25/01/2021 Learned to solve the basic variations of the Rubik's Cube - 3x3, 2x2, 3x3 uneven, 4x4, 5x5
 - 14/08/2021 Published 1st NPM package - [zn-js-form](https://www.npmjs.com/package/zn-js-form)
+- 25/07/2022 Published 2nd NPM package - [zn-js-captcha](https://www.npmjs.com/package/zn-js-captcha)
+- 03/08/2022 Achieved AWS Certified DevOps Engineer certification

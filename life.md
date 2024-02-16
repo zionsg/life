@@ -85,3 +85,4 @@
 - 14/08/2021 Published 1st NPM package - [zn-js-form](https://www.npmjs.com/package/zn-js-form)
 - 25/07/2022 Published 2nd NPM package - [zn-js-captcha](https://www.npmjs.com/package/zn-js-captcha)
 - 03/08/2022 Achieved AWS Certified DevOps Engineer certification
+- 12/2023 Completed NUS Computing CTO Programme (1st cohort)

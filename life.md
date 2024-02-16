@@ -10,7 +10,7 @@
 - 08/1995 Upgraded computer with CD-ROM drive to install Windows 95
 - 1996 Picked up HTML and Visual Basic
 - 1996 1st email account @cyberway.com.sg
-- 1996 Picked up and used Visual FoxPro 3.0 for "A" Level Computing project
+- 1996 Picked up and used Visual FoxPro 3.0 for GCE A-Level Computing project
 - 1993-1996 Represented schools with friends in IT competitions (National Software Competition, Micromouse, Lego Robotics, etc.)
 - 03/1997 Wrote Pascal program to help NS PTP/BMT platoon calculate 217 numerical push-ups for Platoon Commander
 - 07/1999 Enrolled in School of Computing, National University of Singapore
@@ -59,10 +59,10 @@
 - 21/09/2015 Was introduced to the fabulous platform for freelance designers and developers, [MomoCentral.com](https://momocentral.com)
 - 22/09/2015-23/09/2015 Attended 1st PHP conference in Asia, [PHPConf.Asia](https://phpconf.asia/)
 - 03/10/2015 Bought first Mac computer, the gold-coloured 12-inch MacBook
-- 10/2015 Started learning Swift (v2) and did the [FoodTracker tutorial](https://developer.apple.com/…/DevelopiOSAppsSwift/index.html)
+- 10/2015 Started learning Swift (v2) and did the [FoodTracker tutorial](https://developer.apple.com/tutorials/)
 - 13/10/2015 1st hackathon at [Hyper Haze Hack](http://www.hackathon.io/hyper-haze)
 - 16/10/2015 Gave 1st lightning talk at [Friday Hacks #100](https://nushackers.org/2015/10/friday-hacks-100-Oct-16/)
-- 24/10/2015 Attended 1st iOS Conference in Singapore, [iOSConf.SG](https://www.iosconf.sg/)
+- 24/10/2015 Attended 1st iOS Conference in Singapore, [iOSConf.SG](https://iosconf.sg/)
 - 13/11/2015 1st code golf at [Friday Hacks #104](https://nushackers.org/2015/11/friday-hacks-104-Nov-13/)
 - 19/11/2015 Tried out Arduino and NodeJS at NodeBots Sumo Bot Battles workshop during [DevFest.Asia](https://2015.devfest.asia/)
 - 01/12/2015 Submitted 1st iOS app to the App Store but [rejected](https://intzone.com/web/blog/my-1st-app-part-1-creating-the-app/)
@@ -73,7 +73,7 @@
 - 28/01/2016 Deployed 1st app on Heroku as part of General Assembly WDI Instructor Code Challenge
 - 03/02/2016 Created 1st GitHub Pages site with timeline of tech events in [life](https://zionsg.github.io/life/)
 - 19/03/2016 Gave talk at [FOSSASIA 2016](https://2016.fossasia.org/)
-- 04/2016 Joined [Engineers.SG](https://engineers.sg/)
+- 04/2016 Joined [Engineers.SG](https://engineers.sg/) as a volunteer videographer
 - 29/04/2016-30/04/2016 First overnight hackathon, [FB SG x GITSG Hack for a Cause Hackathon](https://www.facebook.com/events/1510014309306287)
 - 22/08/2016 Conducted PSR workshop at [PHP Conference Asia 2016](https://2016.phpconf.asia)
 - 24/02/2017 1st Singaporean to achieve Zend Certified Engineer (PHP 7.1) certification
@@ -81,7 +81,7 @@
 - 28/10/2017 First-time panel speaker - [AMA: The Future of WordPress](https://2017.singapore.wordcamp.org/session/ama-the-future-of-wordpress/)
 - 01/10/2018 [First commits to PHP docs](https://github.com/salathe/phpdoc-en/search?q=zion&type=Commits)
 - 16/09/2020 Achieved AWS Certified Developer Associate certification
-- 25/01/2021 Learned to solve the basic variations of the Rubik's Cube - 3x3, 2x2, 3x3 uneven, 4x4, 5x5
+- 25/01/2021 Learned to solve the basic variations of the Rubik's Cube - 3x3, 2x2, 3x3 mirror, 4x4, 5x5
 - 14/08/2021 Published 1st NPM package - [zn-js-form](https://www.npmjs.com/package/zn-js-form)
 - 25/07/2022 Published 2nd NPM package - [zn-js-captcha](https://www.npmjs.com/package/zn-js-captcha)
 - 03/08/2022 Achieved AWS Certified DevOps Engineer certification

@@ -86,4 +86,4 @@
 - 25/07/2022 Published 2nd NPM package - [zn-js-captcha](https://www.npmjs.com/package/zn-js-captcha)
 - 03/08/2022 Achieved AWS Certified DevOps Engineer certification
 - 12/2023 Completed NUS Computing CTO Programme (1st cohort)
-- 14/01/2025 Registered 1st internationalized domain name (IDN) - 诗弦处.新加坡
+- 13/01/2025 Registered 1st internationalized domain name (IDN) - 诗弦处.新加坡

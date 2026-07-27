@@ -72,7 +72,7 @@
 - 20/01/2016 Tried out Amazon Web Services Route 53 and launched static site on S3
 - 28/01/2016 Deployed 1st app on Heroku as part of General Assembly WDI Instructor Code Challenge
 - 03/02/2016 Created 1st GitHub Pages site with timeline of tech events in [life](https://zionsg.github.io/life/)
-- 19/03/2016 Gave talk at [FOSSASIA 2016](https://2016.fossasia.org/)
+- 19/03/2016 Gave 1st conference talk at [FOSSASIA 2016](https://2016.fossasia.org/)
 - 04/2016 Joined [Engineers.SG](https://engineers.sg/) as a volunteer videographer
 - 29/04/2016-30/04/2016 First overnight hackathon, [FB SG x GITSG Hack for a Cause Hackathon](https://www.facebook.com/events/1510014309306287)
 - 22/08/2016 Conducted PSR workshop at [PHP Conference Asia 2016](https://2016.phpconf.asia)
